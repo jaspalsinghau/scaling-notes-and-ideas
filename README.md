@@ -1,1 +1,1 @@
-# scaling-notes-and-ideas
+#Notes, rearach and AI copy on a book about Scaling businesses operations
